@@ -1,4 +1,4 @@
-import { setLocalStorage, getLocalStorage } from "./utils.mjs";
+import { setLocalStorage, getLocalStorage } from "../js/utils.mjs";
 
 function productDetailsTemplate(product) {
   return `<section class="product-detail">
